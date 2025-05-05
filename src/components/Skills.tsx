@@ -15,11 +15,9 @@ const Skills = () => {
   
   const technicalSkills = [
     "Python", 
-    "Java (Basic)", 
-    "SQL", 
     "HTML/CSS", 
     "TestNG", 
-    "JIRA"
+    "JavaScript"
   ];
   
   const softSkills = [
