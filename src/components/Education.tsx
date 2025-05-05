@@ -18,7 +18,7 @@ const Education = () => {
               <div>
                 <h3 className="text-lg font-semibold text-resume-primary">Master of Information Technology</h3>
                 <p className="text-gray-600 mb-1">University of Mumbai</p>
-                <p className="text-gray-700 text-sm">Recently Completed</p>
+                <p className="text-gray-700 text-sm">Recently Completed (2023-2025)</p>
               </div>
             </div>
           </CardContent>
@@ -32,8 +32,8 @@ const Education = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-resume-primary">Bachelor of Science</h3>
-                <p className="text-gray-600 mb-1">Maharashtra Board</p>
-                <p className="text-gray-700 text-sm">Completed</p>
+                <p className="text-gray-600 mb-1">University of Mumbai</p>
+                <p className="text-gray-700 text-sm">Completed (2019-2022)</p>
               </div>
             </div>
           </CardContent>
