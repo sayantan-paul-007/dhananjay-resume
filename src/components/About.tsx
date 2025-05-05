@@ -58,19 +58,11 @@ const About = () => {
             <ul className="space-y-2 text-gray-700">
               <li className="flex justify-between">
                 <span className="font-medium">Phone:</span>
-                <span>9372951592</span>
+                <span>+919372951592</span>
               </li>
               <li className="flex justify-between">
                 <span className="font-medium">Email:</span>
                 <span className="break-all">shukladhananjay909@gmail.com</span>
-              </li>
-              <li className="flex justify-between">
-                <span className="font-medium">Address:</span>
-                <span className="text-right">
-                  Shiv Chhatrapati Chawl No 2, Near Gundecha High School,<br />
-                  Vibhva Nagar, Janupada, Kandivali East,<br />
-                  Mumbai 400101
-                </span>
               </li>
             </ul>
           </CardContent>
