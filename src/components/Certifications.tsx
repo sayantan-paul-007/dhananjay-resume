@@ -51,23 +51,7 @@ const Certifications = () => {
           </CardContent>
         </Card>
         
-        <Card className="card-hover">
-          <CardContent className="pt-6">
-            <div className="flex items-start gap-4">
-              <div className="bg-resume-light p-3 rounded-full">
-                <FileCheck className="text-resume-primary h-6 w-6" />
-              </div>
-              <div>
-                <h3 className="text-lg font-semibold text-resume-primary">Selenium Testing Certification</h3>
-                <p className="text-gray-600 mb-3">In Progress</p>
-                <p className="text-gray-700">
-                  Currently pursuing certification in Selenium WebDriver for browser automation and testing.
-                  Learning test framework design, page object models, and test case organization.
-                </p>
-              </div>
-            </div>
-          </CardContent>
-        </Card>
+        
       </div>
     </section>
   );
